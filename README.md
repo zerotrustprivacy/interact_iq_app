@@ -1,15 +1,15 @@
-💊 PillPal: Medication interactions, made simple.
+💊 InteractIQ: Medication interactions, made simple.
 <p align="center">
-<img src="https://placehold.co/600x300/14b8a6/ffffff?text=PillPal&font=raleway" alt="PillPal Banner">
+<img src="https://placehold.co/600x300/14b8a6/ffffff?text=InteractIQ&font=raleway" alt="InteractIQ Banner">
 </p>
 
-Ever been handed a prescription and felt a wave of anxiety about the side effects? PillPal is a user-friendly web application designed to demystify medication interactions and side effects. It empowers users to have more informed conversations with their healthcare providers by providing clear, actionable insights into their prescriptions.
+Ever been handed a prescription and felt a wave of anxiety about the side effects? InteractIQ is a user-friendly web application designed to demystify medication interactions and side effects. It empowers users to have more informed conversations with their healthcare providers by providing clear, actionable insights into their prescriptions.
 
 ✨ View the Live Demo!
 Features
-PillPal isn't just another drug database. It's an intelligent tool built to reduce "alert fatigue" and highlight what truly matters.
+InteractIQ isn't just another drug database. It's an intelligent tool built to reduce "alert fatigue" and highlight what truly matters.
 
-Smart Search: Start typing any medication name, and PillPal's predictive text will help you find it, even if it's long and hard to spell.
+Smart Search: Start typing any medication name, and InteractIQ's predictive text will help you find it, even if it's long and hard to spell.
 
 Intelligent Risk Ranking: The app automatically analyzes your medication list, prioritizing major side effects and highlighting symptoms that overlap between multiple drugs.
 
@@ -34,7 +34,7 @@ Vercel: For hosting and deployment.
 
 
 🔮 Future Ideas
-PillPal has a solid foundation, but the potential is huge! Here are some ideas for the future:
+InteractIQ has a solid foundation, but the potential is huge! Here are some ideas for the future:
 
 ML-Powered Alerts: Train a model to go beyond keyword matching and predict the likelihood of a side effect based on more complex data, further reducing alert fatigue.
 
