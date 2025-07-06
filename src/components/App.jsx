@@ -42,10 +42,10 @@ const Header = () => (
   <header className="text-center p-6 md:p-8 bg-teal-500 rounded-t-xl no-print">
     <div className="flex justify-center items-center gap-4">
         <svg className="w-12 h-12 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <title>PillPal Logo</title>
+            <title>InteractIQ Logo</title>
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
         </svg>
-        <h1 className="text-4xl md:text-5xl font-bold text-white">PillPal</h1>
+        <h1 className="text-4xl md:text-5xl font-bold text-white">InteractIQ</h1>
     </div>
     <p className="mt-3 text-md md:text-lg text-teal-100">
       Medication interactions, made simple.
@@ -273,7 +273,7 @@ const DoctorSummary = ({ medications, sortedSideEffects }) => {
     return (
         <div className="p-4">
             <div id="summary-to-print" className="p-6 bg-sky-50 border-2 border-sky-200 rounded-lg">
-                <h2 className="text-2xl font-bold text-sky-800 mb-4">Your PillPal Summary</h2>
+                <h2 className="text-2xl font-bold text-sky-800 mb-4">Your InteractIQ Summary</h2>
                 <p className="mb-4 text-slate-700">This is a summary of potential side effects based on the medications you've entered. Use this as a starting point for a conversation with your healthcare provider.</p>
                 
                 <h3 className="font-bold text-lg text-sky-700 mt-4 mb-2">Medications Entered:</h3>
