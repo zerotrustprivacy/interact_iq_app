@@ -1,4 +1,5 @@
 import React, { useState, useMemo, useEffect, useRef } from 'react';
+import { SpeedInsights } from '@vercel/speed-insights/next';
 
 // --- Helper Functions & Hooks ---
 
@@ -509,6 +510,7 @@ export default function App() {
             onClose={handleCloseModal}
           />
         </div>
+      <SpeedInsights />
     </>
   );
 }
